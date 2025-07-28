@@ -1,4 +1,7 @@
-# 🐗 HogMind - PostHog MCP Server
+# HogMind - PostHog MCP Server
+
+<img width="582" height="465" alt="Screenshot 2025-07-28 at 15 21 55" src="https://github.com/user-attachments/assets/adbc21a8-9154-49c0-a2f2-12d007a7a9a7" />
+
 
 > AI-powered analytics assistant that makes PostHog data accessible through Model Context Protocol (MCP)
 
